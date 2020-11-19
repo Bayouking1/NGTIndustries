@@ -1,1 +1,10 @@
 <p style="text-align:center;"><img src="data:image/jpeg;base64,PASTE BASE64 CODE HERE" width="600" height="600"></p>
+
+The main trick for it is can you get the file size of the image / gif down to under 14kb (10 even better and certain to work).
+From there you convert it to Base64
+you can use a site like https://base64.guru/converter/encode/image/gif to do that (https://base64.guru/converter/encode/image/jpg for jpg, https://base64.guru/converter/encode/image/png for png.  all the links are there)
+PNG to Base64 | Image | Base64 Encode | Base64 Converter | Base64
+Convert PNG to Base64 online and use it as a generator, which provides ready-made examples for data URI, img src, CSS background-url, and others
+once that's done it's just basic html 
+<p style="text-align:center;"><img src="data:image/jpeg;base64,PASTE BASE64 CODE HERE" width="600" height="600"></p>
+and size as needed or you can remove the sizing
