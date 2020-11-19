@@ -1,0 +1,7 @@
+<svg class="bootstrap" viewBox="0 0 1920 1080" style="width:100%; height:100%">
+
+<polygon id="Polygon-1" fill="#ffed1d" sketch:type="MSShapeGroup" points="100,0 300,0 200,540 300,1080 100,1080 0,540">
+
+<animateTransform attributeName="transform" type="translate" from="2320 0" to="-400 0" begin="0s" dur="2s" repeatCount="indefinite"/>
+
+</polygon>
